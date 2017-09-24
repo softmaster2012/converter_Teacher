@@ -17,5 +17,11 @@ namespace Converter_Teacher
             Console.WriteLine("2 - Перевод C -> F");
             Console.WriteLine("3 - Выход");
         }
+
+        public void Choose()
+        {
+            Console.WriteLine("Do something");
+            choice = Convert.ToInt32(Console.ReadLine());
+        }
     }
 }
