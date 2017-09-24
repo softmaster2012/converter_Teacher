@@ -4,3 +4,9 @@ c:\users\student\documents\visual studio 2015\Projects\Converter_Teacher\Convert
 c:\users\student\documents\visual studio 2015\Projects\Converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.csprojResolveAssemblyReference.cache
 c:\users\student\documents\visual studio 2015\Projects\Converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.exe
 c:\users\student\documents\visual studio 2015\Projects\Converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.pdb
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\bin\Debug\Converter_Teacher.exe.config
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.exe
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.pdb
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\bin\Debug\Converter_Teacher.exe
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\bin\Debug\Converter_Teacher.pdb
+C:\Users\student.LAN\Documents\1\converter_Teacher\Converter_Teacher\obj\Debug\Converter_Teacher.csprojResolveAssemblyReference.cache
