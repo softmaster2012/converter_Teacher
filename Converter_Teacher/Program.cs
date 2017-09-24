@@ -11,6 +11,9 @@ namespace Converter_Teacher
         static void Main(string[] args)
         {
             Console.WriteLine("Конвертер единиц измерения температуры");
+
+            Menu m = new Menu();
+            m.Display();
         }
     }
 }
